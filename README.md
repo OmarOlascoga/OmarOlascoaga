@@ -35,15 +35,14 @@
 <hr width="25%" >
 
 ### Framewoks 
-</a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
-    </a>
-    <!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
-</a>
 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="40" height="40"/>
+</a>
+    <!-- Laravel -->
+<a<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
+</a>
 <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
@@ -81,10 +80,10 @@
 <h3 align="left">📢 ¡Check out my social media!</h3>
 
 <p align="left">
-  <a href="https://instagram.com/https://www.instagram.com/omar_j_olascoaga/" target="_blank">
+  <a href="https://instagram.com/omar_j_olascoaga/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://facebook.com/https://www.facebook.com/omar.olascoaga.96" target="_blank">
+  <a href="https://facebook.com/omar.olascoaga.96" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://youtube.com/@omarolascoaga5541" target="_blank">
